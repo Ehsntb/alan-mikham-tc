@@ -1,6 +1,6 @@
 <?php
 
-$API_KEY = '994095348:AAGFFbLiW2ywngKSGb-5C_ys7beQMWDbUoY';
+$API_KEY = '994095348:AAFUDj9plwh8BCx0tHjpNT2fHiYCiVqZbyQ';
 $admin_EhsnTb = '439605205';
 $admin_Amir_srks = '186657787';
 $admin_Chi_Ks = '387409525';
